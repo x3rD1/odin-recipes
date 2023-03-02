@@ -1,0 +1,67 @@
+
+body {
+    background-color: papayawhip;
+  
+}
+
+h1 {
+    font-size: 68px;
+    font-family: monospace;
+    text-align: center;
+}
+
+.item {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 280px;
+    height: 300px;
+}
+
+.sinigang {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 350px;
+}
+
+.tuna {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 350px;
+}
+
+.line {
+    display: inline-block;
+    position: relative;
+    left: 5%;
+    font-size: 36px;
+    font-family: "rubik", sans-serif;
+    font-weight: 700;
+}
+
+.about, .list {
+    text-indent: 5%;
+    list-style-position: inside;
+}
+
+.about {
+    text-indent: 7%;
+}
+
+.list, .about {
+    font-family: "rubik", sans-serif;
+    font-size: 24px;
+}
+
+.padding {
+    margin-bottom: -20px;
+    
+}
+
+.inline {
+    text-indent: 6.5%;
+    margin-top: 5px;
+}
+
